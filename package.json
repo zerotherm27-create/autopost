@@ -11,7 +11,5 @@
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
-  "browserslist": {
-    "production": [">0.2%"]
-  }
+  "browserslist": { "production": [">0.2%"] }
 }

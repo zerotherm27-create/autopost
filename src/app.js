@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 const PLATFORMS = [
   { id: "facebook",  name: "Facebook",   color: "#1877F2", bg: "#E7F0FD", icon: "f",  apiFields: [{ key: "pageId", label: "Page ID" }, { key: "accessToken", label: "Page Access Token" }] },
